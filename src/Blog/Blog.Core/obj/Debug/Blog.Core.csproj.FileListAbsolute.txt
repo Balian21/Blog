@@ -1,0 +1,11 @@
+D:\projects\Blog\src\Blog\Blog.Core\bin\Debug\Blog.Core.dll
+D:\projects\Blog\src\Blog\Blog.Core\bin\Debug\Blog.Core.pdb
+D:\projects\Blog\src\Blog\Blog.Core\bin\Debug\FluentNHibernate.dll
+D:\projects\Blog\src\Blog\Blog.Core\bin\Debug\Iesi.Collections.dll
+D:\projects\Blog\src\Blog\Blog.Core\bin\Debug\NHibernate.dll
+D:\projects\Blog\src\Blog\Blog.Core\bin\Debug\FluentNHibernate.pdb
+D:\projects\Blog\src\Blog\Blog.Core\bin\Debug\FluentNHibernate.xml
+D:\projects\Blog\src\Blog\Blog.Core\bin\Debug\Iesi.Collections.xml
+D:\projects\Blog\src\Blog\Blog.Core\bin\Debug\NHibernate.xml
+D:\projects\Blog\src\Blog\Blog.Core\obj\Debug\Blog.Core.dll
+D:\projects\Blog\src\Blog\Blog.Core\obj\Debug\Blog.Core.pdb
