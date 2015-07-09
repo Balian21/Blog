@@ -9,3 +9,12 @@ D:\projects\Blog\src\Blog\Blog.Core\bin\Debug\Iesi.Collections.xml
 D:\projects\Blog\src\Blog\Blog.Core\bin\Debug\NHibernate.xml
 D:\projects\Blog\src\Blog\Blog.Core\obj\Debug\Blog.Core.dll
 D:\projects\Blog\src\Blog\Blog.Core\obj\Debug\Blog.Core.pdb
+D:\projects\Blog\src\Blog\Blog.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\projects\Blog\src\Blog\Blog.Core\bin\Debug\Ninject.dll
+D:\projects\Blog\src\Blog\Blog.Core\bin\Debug\Ninject.Web.Common.dll
+D:\projects\Blog\src\Blog\Blog.Core\bin\Debug\Ninject.Web.Mvc.dll
+D:\projects\Blog\src\Blog\Blog.Core\bin\Debug\WebActivatorEx.dll
+D:\projects\Blog\src\Blog\Blog.Core\bin\Debug\Ninject.xml
+D:\projects\Blog\src\Blog\Blog.Core\bin\Debug\Ninject.Web.Common.xml
+D:\projects\Blog\src\Blog\Blog.Core\bin\Debug\Ninject.Web.Mvc.xml
+D:\projects\Blog\src\Blog\Blog.Core\obj\Debug\Blog.Core.csprojResolveAssemblyReference.cache

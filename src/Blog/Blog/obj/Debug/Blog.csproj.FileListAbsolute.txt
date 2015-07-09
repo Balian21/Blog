@@ -25,3 +25,10 @@ D:\projects\Blog\src\Blog\Blog\bin\NHibernate.xml
 D:\projects\Blog\src\Blog\Blog\bin\Iesi.Collections.xml
 D:\projects\Blog\src\Blog\Blog\obj\Debug\Blog.dll
 D:\projects\Blog\src\Blog\Blog\obj\Debug\Blog.pdb
+D:\projects\Blog\src\Blog\Blog\bin\Ninject.dll
+D:\projects\Blog\src\Blog\Blog\bin\Ninject.Web.Common.dll
+D:\projects\Blog\src\Blog\Blog\bin\Ninject.Web.Mvc.dll
+D:\projects\Blog\src\Blog\Blog\bin\WebActivatorEx.dll
+D:\projects\Blog\src\Blog\Blog\bin\Ninject.xml
+D:\projects\Blog\src\Blog\Blog\bin\Ninject.Web.Common.xml
+D:\projects\Blog\src\Blog\Blog\bin\Ninject.Web.Mvc.xml
